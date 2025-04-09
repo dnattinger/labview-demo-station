@@ -43,14 +43,13 @@
 				<Item Name="Interactive.lvclass" Type="LVClass" URL="../support/Interactive_class/Interactive.lvclass"/>
 			</Item>
 			<Item Name="Read Configuration.vi" Type="VI" URL="../support/Read Configuration.vi"/>
-			<Item Name="Load Demos.vi" Type="VI" URL="/&lt;vilib&gt;/NXG_controls/String/Load Demos.vi"/>
-			<Item Name="Fade Out.vi" Type="VI" URL="../../../../Users/darre/OneDrive/Documents/Fade Out.vi"/>
-			<Item Name="Fade In.vi" Type="VI" URL="../../../../Users/darre/OneDrive/Documents/Fade In.vi"/>
-			<Item Name="Fade Overlay.vi" Type="VI" URL="../../../../temp/Fade Overlay.vi"/>
+			<Item Name="Load Demos.vi" Type="VI" URL="../support/Load Demos.vi"/>
+			<Item Name="Fade Out.vi" Type="VI" URL="../support/Fade Out.vi"/>
+			<Item Name="Fade In.vi" Type="VI" URL="../support/Fade In.vi"/>
+			<Item Name="Fade Overlay.vi" Type="VI" URL="../support/Fade Overlay.vi"/>
 		</Item>
 		<Item Name="LabVIEW Demo Station.ini" Type="Document" URL="../LabVIEW Demo Station.ini"/>
 		<Item Name="LabVIEW Demo Station.vi" Type="VI" URL="../LabVIEW Demo Station.vi"/>
-		<Item Name="sandbox (to be deleted).vi" Type="VI" URL="../sandbox (to be deleted).vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
