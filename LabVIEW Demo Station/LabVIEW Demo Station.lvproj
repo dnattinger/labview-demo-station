@@ -36,6 +36,7 @@
 			<Item Name="Type Definitions" Type="Folder">
 				<Item Name="Configuration--cluster.ctl" Type="VI" URL="../support/Configuration--cluster.ctl"/>
 				<Item Name="UI Data--cluster.ctl" Type="VI" URL="../support/UI Data--cluster.ctl"/>
+				<Item Name="Tree Tag to Demo--map.ctl" Type="VI" URL="../support/Tree Tag to Demo--map.ctl"/>
 			</Item>
 			<Item Name="Classes" Type="Folder">
 				<Item Name="Demo.lvclass" Type="LVClass" URL="../support/Demo_class/Demo.lvclass"/>
@@ -47,6 +48,10 @@
 			<Item Name="Fade Out.vi" Type="VI" URL="../support/Fade Out.vi"/>
 			<Item Name="Fade In.vi" Type="VI" URL="../support/Fade In.vi"/>
 			<Item Name="Fade Overlay.vi" Type="VI" URL="../support/Fade Overlay.vi"/>
+			<Item Name="Defer Panel Updates Wrapper.vi" Type="VI" URL="../support/Defer Panel Updates Wrapper.vi"/>
+			<Item Name="Forward Button.vi" Type="VI" URL="../support/Forward Button.vi"/>
+			<Item Name="Ensure Parents are Expanded.vi" Type="VI" URL="../support/Ensure Parents are Expanded.vi"/>
+			<Item Name="Back Button.vi" Type="VI" URL="../support/Back Button.vi"/>
 		</Item>
 		<Item Name="LabVIEW Demo Station.ini" Type="Document" URL="../LabVIEW Demo Station.ini"/>
 		<Item Name="LabVIEW Demo Station.vi" Type="VI" URL="../LabVIEW Demo Station.vi"/>
