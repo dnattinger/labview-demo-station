@@ -52,6 +52,7 @@
 			<Item Name="Forward Button.vi" Type="VI" URL="../support/Forward Button.vi"/>
 			<Item Name="Ensure Parents are Expanded.vi" Type="VI" URL="../support/Ensure Parents are Expanded.vi"/>
 			<Item Name="Back Button.vi" Type="VI" URL="../support/Back Button.vi"/>
+			<Item Name="Try It.vi" Type="VI" URL="../support/Try It.vi"/>
 		</Item>
 		<Item Name="LabVIEW Demo Station.ini" Type="Document" URL="../LabVIEW Demo Station.ini"/>
 		<Item Name="LabVIEW Demo Station.vi" Type="VI" URL="../LabVIEW Demo Station.vi"/>
