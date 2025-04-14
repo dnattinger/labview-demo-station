@@ -45,8 +45,8 @@
 			</Item>
 			<Item Name="Read Configuration.vi" Type="VI" URL="../support/Read Configuration.vi"/>
 			<Item Name="Load Demos.vi" Type="VI" URL="../support/Load Demos.vi"/>
-			<Item Name="Fade Out.vi" Type="VI" URL="../support/Fade Out.vi"/>
-			<Item Name="Fade In.vi" Type="VI" URL="../support/Fade In.vi"/>
+			<Item Name="Close Demo.vi" Type="VI" URL="../support/Close Demo.vi"/>
+			<Item Name="Open Demo.vi" Type="VI" URL="../support/Open Demo.vi"/>
 			<Item Name="Fade Overlay.vi" Type="VI" URL="../support/Fade Overlay.vi"/>
 			<Item Name="Defer Panel Updates Wrapper.vi" Type="VI" URL="../support/Defer Panel Updates Wrapper.vi"/>
 			<Item Name="Forward Button.vi" Type="VI" URL="../support/Forward Button.vi"/>
