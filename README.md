@@ -19,6 +19,6 @@ The LabVIEW Demo Station is fully plugin-based. You can add your own passive con
 2. Make a copy of the *Demo Template* folder for your new demo. Place this copied folder in the appropriate subfolder of the *Demos* folder.
 3. Rename the copied folder to match your demo name. For example, if you are demoing the 'Create While Loop Widget' feature, then you would rename the copied folder *Create While Loop Widget*.
 4. Rename the demo VI in the copied folder to match your demo name, with a "demo_" prefix. So for the example in the previous step, it would be renamed *demo_Create While Loop Widget.vi*.
-5. If your demo is going to include a "Try It" exercise, then perform the same rename operation on the "try_" VI. So for the example in the previous step, it would be renamed *try_Create While Loop Widget.vi*. If your demo is **not* going to include a "Try It" exercise, you can delete the "try_" VI in your copied folder.
+5. If your demo is going to include a "Try It" exercise, then perform the same rename operation on the "try_" VI. So for the example in the previous step, it would be renamed *try_Create While Loop Widget.vi*. If your demo is **not** going to include a "Try It" exercise, you can delete the "try_" VI in your copied folder.
 6. Follow the instructions in the "demo_" and "try_" VIs to implement your new demo.
 7. Assuming you followed the above steps correctly, your new demo should appear in the **Demos** list the next time you run the demo station.
