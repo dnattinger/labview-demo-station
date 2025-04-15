@@ -22,6 +22,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Demo Template" Type="Folder" URL="../Demo Template">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Demos" Type="Folder" URL="../Demos">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
@@ -47,12 +50,13 @@
 			<Item Name="Load Demos.vi" Type="VI" URL="../support/Load Demos.vi"/>
 			<Item Name="Close Demo.vi" Type="VI" URL="../support/Close Demo.vi"/>
 			<Item Name="Open Demo.vi" Type="VI" URL="../support/Open Demo.vi"/>
-			<Item Name="Fade Overlay.vi" Type="VI" URL="../support/Fade Overlay.vi"/>
 			<Item Name="Defer Panel Updates Wrapper.vi" Type="VI" URL="../support/Defer Panel Updates Wrapper.vi"/>
-			<Item Name="Forward Button.vi" Type="VI" URL="../support/Forward Button.vi"/>
+			<Item Name="Forward.vi" Type="VI" URL="../support/Forward.vi"/>
 			<Item Name="Ensure Parents are Expanded.vi" Type="VI" URL="../support/Ensure Parents are Expanded.vi"/>
-			<Item Name="Back Button.vi" Type="VI" URL="../support/Back Button.vi"/>
+			<Item Name="Back.vi" Type="VI" URL="../support/Back.vi"/>
 			<Item Name="Try It.vi" Type="VI" URL="../support/Try It.vi"/>
+			<Item Name="Tree Glyphs.vi" Type="VI" URL="../support/Tree Glyphs.vi"/>
+			<Item Name="Reassign Bounds.vi" Type="VI" URL="../support/Reassign Bounds.vi"/>
 		</Item>
 		<Item Name="LabVIEW Demo Station.ini" Type="Document" URL="../LabVIEW Demo Station.ini"/>
 		<Item Name="LabVIEW Demo Station.vi" Type="VI" URL="../LabVIEW Demo Station.vi"/>
