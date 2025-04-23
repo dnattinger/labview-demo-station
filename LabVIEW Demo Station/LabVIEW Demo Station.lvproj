@@ -57,6 +57,7 @@
 			<Item Name="Try It.vi" Type="VI" URL="../support/Try It.vi"/>
 			<Item Name="Tree Glyphs.vi" Type="VI" URL="../support/Tree Glyphs.vi"/>
 			<Item Name="Reassign Bounds.vi" Type="VI" URL="../support/Reassign Bounds.vi"/>
+			<Item Name="Clear Empty Parents.vi" Type="VI" URL="../support/Clear Empty Parents.vi"/>
 		</Item>
 		<Item Name="LabVIEW Demo Station.ini" Type="Document" URL="../LabVIEW Demo Station.ini"/>
 		<Item Name="LabVIEW Demo Station.vi" Type="VI" URL="../LabVIEW Demo Station.vi"/>
